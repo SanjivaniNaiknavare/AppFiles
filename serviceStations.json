@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hinjawadi Service Station",
+        "latitude": 18.591274,
+        "longitude": 73.749163,
+        "address": "Hinjawadi phase 1, Pimpri-Chinchwad",
+        "pincode": "411050",
+        "phone": "+919975469292",
+        "available": true
+    },
+    {
+        "name": "Yashwant Service Station",
+        "latitude":18.607792,
+        "longitude": 73.78577,
+        "address": "Rahatani, Pimpri-Chinchwad",
+        "pincode": "411053",
+        "phone": "+919975469292",
+        "available": false
+    }
+]
